@@ -1,0 +1,360 @@
+"","Observation","coder","Behavior","Start","Stop","observation_id_Nathan"
+"1","Fergus1","Nathan","Sustained Look at Owner",4.65,8.65,1
+"2","Fergus1","Nathan","Sustained Look at Owner",34.65,38.65,2
+"3","Fergus1","Nathan","Sustained Look at Owner",40.65,44.65,3
+"4","Fergus1","Nathan","Vocalization",58.017,62.017,4
+"5","Fergus1","Nathan","Alternating Gaze",58.717,62.717,5
+"6","Fergus1","Nathan","Sustained Look at Owner",85.2,89.2,6
+"7","Fergus1","Nathan","Sustained Look at Owner",100.017,104.017,7
+"8","Fergus1","Nathan","Vocalization",157.6,161.6,8
+"9","Fergus1","Nathan","Vocalization",159.4,163.4,9
+"10","Fergus1","Nathan","Sustained Look at Owner",160.05,164.05,10
+"11","Fergus1","Nathan","Vocalization",163.917,167.917,11
+"12","Fergus1","Nathan","Vocalization",168.467,172.467,12
+"13","Fergus1","Nathan","Vocalization",172.05,176.05,13
+"14","Fergus1","Nathan","Vocalization",172.95,176.95,14
+"15","Fergus1","Nathan","Vocalization",176.033,180.033,15
+"16","Fergus2","Nathan","Sustained Look at Owner",8.517,12.517,16
+"17","Fergus2","Nathan","Sustained Look at Owner",31.783,35.783,17
+"18","Fergus2","Nathan","Sustained Look at Owner",54.233,58.233,18
+"19","Fergus2","Nathan","Sustained Look at Owner",76.55,80.55,19
+"20","Fergus2","Nathan","Vocalization",81.917,85.917,20
+"21","Fergus2","Nathan","Vocalization",82.633,86.633,21
+"22","Fergus2","Nathan","Sustained Look at Owner",84.533,88.533,22
+"23","Fergus2","Nathan","Vocalization",89.867,93.867,23
+"24","Fergus2","Nathan","Vocalization",90.45,94.45,24
+"25","Fergus2","Nathan","Positioning in Front of Owner",91.467,95.467,25
+"26","Fergus2","Nathan","Vocalization",93.4,97.4,26
+"27","Fergus2","Nathan","Vocalization",94.967,98.967,27
+"28","Fergus2","Nathan","Vocalization",98.983,102.983,28
+"29","Fergus2","Nathan","Vocalization",99.183,103.183,29
+"30","Fergus2","Nathan","Vocalization",101.517,105.517,30
+"31","Fergus2","Nathan","Vocalization",105.033,109.033,31
+"32","Fergus2","Nathan","Vocalization",105.517,109.517,32
+"33","Fergus2","Nathan","Vocalization",110.15,114.15,33
+"34","Fergus2","Nathan","Sustained Look at Owner",111.8,115.8,34
+"35","Fergus2","Nathan","Vocalization",112.033,116.033,35
+"36","Fergus2","Nathan","Vocalization",116.917,120.917,36
+"37","Fergus2","Nathan","Vocalization",118,122,37
+"38","Fergus2","Nathan","Positioning in Front of Owner",119.75,123.75,38
+"39","Fergus2","Nathan","Alternating Gaze",147.117,151.117,39
+"40","Fergus2","Nathan","Sustained Look at Owner",155.633,159.633,40
+"41","Fergus3","Nathan","Vocalization",6.033,10.033,41
+"42","Fergus3","Nathan","Owner Contact",7.683,11.733,42
+"43","Fergus3","Nathan","Owner Contact",7.967,12.433,43
+"44","Fergus3","Nathan","Vocalization",8.117,12.117,44
+"45","Fergus3","Nathan","Sustained Look at Owner",10.467,14.467,45
+"46","Fergus3","Nathan","Vocalization",11.617,15.617,46
+"47","Fergus3","Nathan","Owner Contact",11.85,16.083,47
+"48","Fergus3","Nathan","Owner Contact",12.617,16.933,48
+"49","Fergus3","Nathan","Positioning in Front of Owner",12.933,16.933,49
+"50","Fergus3","Nathan","Vocalization",17.75,21.75,50
+"51","Fergus3","Nathan","Vocalization",20.867,24.867,51
+"52","Fergus3","Nathan","Sustained Look at Owner",23.133,27.133,52
+"53","Fergus3","Nathan","Vocalization",28.517,32.517,53
+"54","Fergus3","Nathan","Alternating Gaze",33.483,37.483,54
+"55","Fergus3","Nathan","Sustained Look at Owner",42.7,46.7,55
+"56","Fergus3","Nathan","Vocalization",43.633,47.633,56
+"57","Fergus3","Nathan","Vocalization",172.583,176.583,57
+"58","Fergus3","Nathan","Vocalization",173.517,177.517,58
+"59","Fergus4","Nathan","Sustained Look at Owner",11.917,15.917,59
+"60","Fergus4","Nathan","Sustained Look at Owner",18.133,22.133,60
+"61","Fergus4","Nathan","Sustained Look at Owner",38.2,42.2,61
+"62","Fergus4","Nathan","Sustained Look at Owner",110.917,114.917,62
+"63","Fergus4","Nathan","Vocalization",151.767,155.767,63
+"64","Fergus4","Nathan","Sustained Look at Owner",163.817,167.817,64
+"65","Fergus4","Nathan","Sustained Look at Owner",172.217,176.217,65
+"66","Fergus5","Nathan","Alternating Gaze",16.167,20.167,66
+"67","Fergus5","Nathan","Vocalization",36.667,40.667,67
+"68","Fergus5","Nathan","Sustained Look at Owner",38.6,42.6,68
+"69","Fergus5","Nathan","Sustained Look at Owner",53.667,57.667,69
+"70","Fergus5","Nathan","Sustained Look at Owner",92.35,96.35,70
+"71","Fergus5","Nathan","Vocalization",116.667,120.667,71
+"72","Fergus5","Nathan","Sustained Look at Owner",119.183,123.183,72
+"73","Fergus5","Nathan","Vocalization",131.417,135.417,73
+"74","Fergus5","Nathan","Vocalization",132.667,136.667,74
+"75","Fergus5","Nathan","Sustained Look at Owner",134.4,138.4,75
+"76","Fergus5","Nathan","Vocalization",136.783,140.783,76
+"77","Fergus5","Nathan","Sustained Look at Owner",139,143,77
+"78","Fergus5","Nathan","Vocalization",140.55,144.55,78
+"79","Fergus5","Nathan","Vocalization",142.4,146.4,79
+"80","Fergus5","Nathan","Vocalization",147.4,151.4,80
+"81","Fergus5","Nathan","Vocalization",148.483,152.483,81
+"82","Fergus5","Nathan","Vocalization",149.983,153.983,82
+"83","Fergus5","Nathan","Vocalization",151.383,155.383,83
+"84","Fergus5","Nathan","Vocalization",152.917,156.917,84
+"85","Fergus5","Nathan","Vocalization",165.667,169.667,85
+"86","Fergus5","Nathan","Sustained Look at Owner",167.9,171.9,86
+"87","Fergus5","Nathan","Vocalization",168.35,172.35,87
+"88","Fergus5","Nathan","Vocalization",172.933,176.933,88
+"89","Fergus5","Nathan","Sustained Look at Owner",175.117,179.117,89
+"90","Fergus5","Nathan","Vocalization",177.433,181.433,90
+"91","Fergus1","Nathan","Physical Contact",-1.4,3.933,91
+"92","Fergus1","Nathan","Physical Contact",0.583,4.883,92
+"93","Fergus1","Nathan","Physical Contact",1.217,5.3,93
+"94","Fergus1","Nathan","Physical Contact",2.533,8.4,94
+"95","Fergus1","Nathan","Physical Contact",10.933,15.467,95
+"96","Fergus1","Nathan","Physical Contact",11.867,16.317,96
+"97","Fergus1","Nathan","Physical Contact",12.383,17.15,97
+"98","Fergus1","Nathan","Physical Contact",13.933,20.017,98
+"99","Fergus1","Nathan","Physical Contact",17.117,21.167,99
+"100","Fergus1","Nathan","Physical Contact",18.25,22.433,100
+"101","Fergus1","Nathan","Physical Contact",19.15,23.65,101
+"102","Fergus1","Nathan","Physical Contact",20.467,24.5,102
+"103","Fergus1","Nathan","Physical Contact",20.883,26.617,103
+"104","Fergus1","Nathan","Physical Contact",23.333,28.783,104
+"105","Fergus1","Nathan","Physical Contact",25.167,61.967,105
+"106","Fergus2","Nathan","Physical Contact",-1.467,3.15,106
+"107","Fergus2","Nathan","Physical Contact",-0.767,3.267,107
+"108","Fergus2","Nathan","Physical Contact",3.117,8,108
+"109","Fergus2","Nathan","Physical Contact",5.5,9.583,109
+"110","Fergus2","Nathan","Physical Contact",18.033,22.35,110
+"111","Fergus2","Nathan","Physical Contact",18.483,22.733,111
+"112","Fergus2","Nathan","Physical Contact",19.8,24.033,112
+"113","Fergus2","Nathan","Physical Contact",20.133,27.267,113
+"114","Fergus2","Nathan","Physical Contact",23.4,27.617,114
+"115","Fergus2","Nathan","Physical Contact",23.767,27.9,115
+"116","Fergus2","Nathan","Physical Contact",24.1,28.333,116
+"117","Fergus2","Nathan","Physical Contact",24.467,29.2,117
+"118","Fergus2","Nathan","Physical Contact",48.6,53.117,118
+"119","Fergus2","Nathan","Physical Contact",49.217,53.983,119
+"120","Fergus2","Nathan","Physical Contact",50.05,54.1,120
+"121","Fergus2","Nathan","Physical Contact",50.2,54.333,121
+"122","Fergus2","Nathan","Physical Contact",50.4,54.5,122
+"123","Fergus2","Nathan","Physical Contact",68.967,73.667,123
+"124","Fergus2","Nathan","Physical Contact",71.217,75.767,124
+"125","Fergus2","Nathan","Physical Contact",73.117,77.467,125
+"126","Fergus2","Nathan","Physical Contact",137.7,141.917,126
+"127","Fergus2","Nathan","Physical Contact",138.067,143.833,127
+"128","Fergus2","Nathan","Physical Contact",139.967,144.267,128
+"129","Fergus3","Nathan","Physical Contact",-1.717,2.75,129
+"130","Fergus3","Nathan","Physical Contact",-1,3.55,130
+"131","Fergus3","Nathan","Physical Contact",0.0830000000000002,4.45,131
+"132","Fergus3","Nathan","Physical Contact",2.25,6.35,132
+"133","Fergus3","Nathan","Physical Contact",2.517,6.717,133
+"134","Fergus3","Nathan","Physical Contact",31.133,35.6,134
+"135","Fergus3","Nathan","Physical Contact",31.817,35.967,135
+"136","Fergus3","Nathan","Physical Contact",32.117,36.283,136
+"137","Fergus3","Nathan","Physical Contact",36.317,40.65,137
+"138","Fergus3","Nathan","Physical Contact",36.717,45.05,138
+"139","Fergus4","Nathan","Physical Contact",-1.067,3.133,139
+"140","Fergus4","Nathan","Physical Contact",-0.633,3.6,140
+"141","Fergus4","Nathan","Physical Contact",-0.15,3.933,141
+"142","Fergus4","Nathan","Physical Contact",0.2,4.333,142
+"143","Fergus4","Nathan","Physical Contact",1.5,5.867,143
+"144","Fergus4","Nathan","Physical Contact",2.133,7.167,144
+"145","Fergus4","Nathan","Physical Contact",3.833,8.05,145
+"146","Fergus4","Nathan","Physical Contact",4.933,9.267,146
+"147","Fergus4","Nathan","Physical Contact",6,10.683,147
+"148","Fergus4","Nathan","Physical Contact",7.717,12.183,148
+"149","Fergus4","Nathan","Physical Contact",8.233,12.5,149
+"150","Fergus4","Nathan","Physical Contact",8.6,12.7,150
+"151","Fergus4","Nathan","Physical Contact",8.8,12.883,151
+"152","Fergus4","Nathan","Physical Contact",8.933,13.083,152
+"153","Fergus4","Nathan","Physical Contact",9.167,13.533,153
+"154","Fergus4","Nathan","Physical Contact",14.533,18.683,154
+"155","Fergus4","Nathan","Physical Contact",14.9,19.067,155
+"156","Fergus4","Nathan","Physical Contact",20.7,25.567,156
+"157","Fergus4","Nathan","Physical Contact",21.717,26.1,157
+"158","Fergus4","Nathan","Physical Contact",22.233,26.367,158
+"159","Fergus4","Nathan","Physical Contact",22.6,26.783,159
+"160","Fergus4","Nathan","Physical Contact",22.967,27.167,160
+"161","Fergus4","Nathan","Physical Contact",23.333,32.967,161
+"162","Fergus4","Nathan","Physical Contact",29.7,33.817,162
+"163","Fergus5","Nathan","Physical Contact",-1.533,2.95,163
+"164","Fergus5","Nathan","Physical Contact",-0.65,3.983,164
+"165","Fergus5","Nathan","Physical Contact",0.483,4.85,165
+"166","Fergus5","Nathan","Physical Contact",0.95,5.05,166
+"167","Fergus5","Nathan","Physical Contact",1.117,5.167,167
+"168","Fergus5","Nathan","Physical Contact",1.25,5.35,168
+"169","Fergus5","Nathan","Physical Contact",1.417,5.5,169
+"170","Fergus5","Nathan","Physical Contact",1.583,5.683,170
+"171","Fergus5","Nathan","Physical Contact",1.783,6.383,171
+"172","Fergus5","Nathan","Physical Contact",3.817,8.5,172
+"173","Fergus5","Nathan","Physical Contact",5.217,9.383,173
+"174","Fergus5","Nathan","Physical Contact",5.717,9.883,174
+"175","Fergus5","Nathan","Physical Contact",6.083,10.183,175
+"176","Fergus5","Nathan","Physical Contact",6.417,10.517,176
+"177","Fergus5","Nathan","Physical Contact",6.817,11.15,177
+"178","Fergus5","Nathan","Physical Contact",7.417,11.45,178
+"179","Fergus5","Nathan","Physical Contact",7.733,11.883,179
+"180","Fergus5","Nathan","Physical Contact",8.017,12.167,180
+"181","Fergus5","Nathan","Physical Contact",8.383,12.417,181
+"182","Fergus5","Nathan","Physical Contact",8.517,12.583,182
+"183","Fergus5","Nathan","Physical Contact",8.683,12.733,183
+"184","Fergus5","Nathan","Physical Contact",8.833,13.05,184
+"185","Fergus5","Nathan","Physical Contact",9.417,14.417,185
+"186","Fergus5","Nathan","Physical Contact",11.117,15.483,186
+"187","Fergus5","Nathan","Physical Contact",11.617,15.817,187
+"188","Fergus5","Nathan","Physical Contact",11.917,16.05,188
+"189","Fergus5","Nathan","Physical Contact",12.25,16.367,189
+"190","Fergus5","Nathan","Physical Contact",12.583,16.667,190
+"191","Fergus5","Nathan","Physical Contact",12.883,17.217,191
+"192","Fergus5","Nathan","Physical Contact",13.517,17.85,192
+"193","Fergus5","Nathan","Physical Contact",14.05,19.05,193
+"194","Fergus5","Nathan","Physical Contact",17.483,22.25,194
+"195","Fergus5","Nathan","Physical Contact",18.35,22.95,195
+"196","Fergus5","Nathan","Physical Contact",19.117,25.35,196
+"197","Fergus5","Nathan","Physical Contact",21.483,25.617,197
+"198","Fergus5","Nathan","Physical Contact",21.85,26,198
+"199","Fergus5","Nathan","Physical Contact",22.25,26.333,199
+"200","Fergus5","Nathan","Physical Contact",22.583,26.9,200
+"201","Fergus5","Nathan","Physical Contact",22.983,27.75,201
+"202","Fergus5","Nathan","Physical Contact",23.883,27.967,202
+"203","Fergus5","Nathan","Physical Contact",24.233,28.317,203
+"204","Fergus5","Nathan","Physical Contact",24.583,28.817,204
+"205","Fergus5","Nathan","Physical Contact",24.883,28.983,205
+"206","Fergus5","Nathan","Physical Contact",25.217,29.333,206
+"207","Fergus5","Nathan","Physical Contact",25.55,29.683,207
+"208","Fergus5","Nathan","Physical Contact",25.917,30.183,208
+"209","Fergus5","Nathan","Physical Contact",26.283,30.35,209
+"210","Fergus5","Nathan","Physical Contact",26.45,30.517,210
+"211","Fergus5","Nathan","Physical Contact",26.617,30.7,211
+"212","Fergus5","Nathan","Physical Contact",26.817,30.85,212
+"213","Fergus5","Nathan","Physical Contact",26.983,31.183,213
+"214","Fergus5","Nathan","Physical Contact",27.283,31.35,214
+"215","Fergus5","Nathan","Physical Contact",27.433,31.45,215
+"216","Fergus5","Nathan","Physical Contact",27.717,31.817,216
+"217","Fergus5","Nathan","Physical Contact",28.217,32.283,217
+"218","Fergus5","Nathan","Physical Contact",28.883,33.017,218
+"219","Fergus5","Nathan","Physical Contact",29.283,33.483,219
+"220","Fergus5","Nathan","Physical Contact",29.617,33.717,220
+"221","Fergus5","Nathan","Physical Contact",29.983,34.133,221
+"222","Fergus5","Nathan","Physical Contact",30.35,34.417,222
+"223","Fergus5","Nathan","Physical Contact",30.683,34.833,223
+"224","Fergus5","Nathan","Physical Contact",31.017,35.15,224
+"225","Fergus5","Nathan","Physical Contact",31.35,35.5,225
+"226","Fergus5","Nathan","Physical Contact",31.75,37.217,226
+"227","Fergus5","Nathan","Physical Contact",33.25,37.917,227
+"228","Fergus5","Nathan","Physical Contact",34.083,38.183,228
+"229","Fergus5","Nathan","Physical Contact",34.483,38.65,229
+"230","Fergus5","Nathan","Physical Contact",35.283,39.8,230
+"231","Fergus5","Nathan","Physical Contact",114.35,118.883,231
+"232","Juniper1","Nathan","Physical Contact",-0.5,4.583,232
+"233","Juniper1","Nathan","Physical Contact",3.217,7.867,233
+"234","Juniper1","Nathan","Physical Contact",4.067,8.933,234
+"235","Juniper1","Nathan","Physical Contact",8.45,12.983,235
+"236","Juniper1","Nathan","Physical Contact",17.367,21.533,236
+"237","Juniper1","Nathan","Physical Contact",19.917,24.067,237
+"238","Juniper1","Nathan","Physical Contact",26.267,30.6,238
+"239","Juniper1","Nathan","Physical Contact",27.667,31.783,239
+"240","Juniper1","Nathan","Physical Contact",35.717,40.133,240
+"241","Juniper1","Nathan","Physical Contact",37.233,41.65,241
+"242","Juniper1","Nathan","Physical Contact",45.983,53.933,242
+"243","Juniper1","Nathan","Physical Contact",50.1,54.483,243
+"244","Juniper1","Nathan","Physical Contact",89.8,94.133,244
+"245","Juniper1","Nathan","Physical Contact",90.65,95.517,245
+"246","Juniper2","Nathan","Physical Contact",-0.417,4.367,246
+"247","Juniper2","Nathan","Physical Contact",0.817,4.917,247
+"248","Juniper2","Nathan","Physical Contact",4.45,9.567,248
+"249","Juniper2","Nathan","Physical Contact",6.033,10.317,249
+"250","Juniper2","Nathan","Physical Contact",6.717,10.9,250
+"251","Juniper2","Nathan","Physical Contact",9.817,14.033,251
+"252","Juniper2","Nathan","Physical Contact",11.117,15.45,252
+"253","Juniper2","Nathan","Physical Contact",11.95,16.1,253
+"254","Juniper2","Nathan","Physical Contact",18.467,23.067,254
+"255","Juniper2","Nathan","Physical Contact",20.3,24.383,255
+"256","Juniper2","Nathan","Physical Contact",21.667,26.233,256
+"257","Juniper2","Nathan","Physical Contact",22.483,26.8,257
+"258","Juniper2","Nathan","Physical Contact",23.033,27.617,258
+"259","Juniper2","Nathan","Physical Contact",93.517,98.133,259
+"260","Juniper2","Nathan","Physical Contact",94.483,101.467,260
+"261","Juniper2","Nathan","Physical Contact",151.133,155.25,261
+"262","Juniper2","Nathan","Physical Contact",151.667,156.5,262
+"263","Juniper3","Nathan","Physical Contact",-0.0830000000000002,6.5,263
+"264","Juniper3","Nathan","Physical Contact",5.6,10.917,264
+"265","Juniper3","Nathan","Physical Contact",8.433,12.583,265
+"266","Juniper3","Nathan","Physical Contact",10.25,14.317,266
+"267","Juniper3","Nathan","Physical Contact",16.65,20.8,267
+"268","Juniper3","Nathan","Physical Contact",17.2,21.65,268
+"269","Juniper3","Nathan","Physical Contact",18.267,23.583,269
+"270","Juniper3","Nathan","Physical Contact",19.867,24.067,270
+"271","Juniper3","Nathan","Physical Contact",20.767,24.917,271
+"272","Juniper3","Nathan","Physical Contact",21,26.517,272
+"273","Juniper3","Nathan","Physical Contact",23.5,27.783,273
+"274","Juniper3","Nathan","Physical Contact",25.883,29.95,274
+"275","Juniper3","Nathan","Physical Contact",36.283,40.583,275
+"276","Juniper3","Nathan","Physical Contact",37.45,41.717,276
+"277","Juniper4","Nathan","Physical Contact",-1.033,3.1,277
+"278","Juniper4","Nathan","Physical Contact",1.167,6.217,278
+"279","Juniper4","Nathan","Physical Contact",3.017,8.8,279
+"280","Juniper4","Nathan","Physical Contact",7.083,11.25,280
+"281","Juniper4","Nathan","Physical Contact",8.2,12.633,281
+"282","Juniper4","Nathan","Physical Contact",9.233,14.483,282
+"283","Juniper4","Nathan","Physical Contact",12.517,17.033,283
+"284","Juniper4","Nathan","Physical Contact",15.083,19.117,284
+"285","Juniper4","Nathan","Physical Contact",15.567,20.533,285
+"286","Juniper4","Nathan","Physical Contact",17.117,24.283,286
+"287","Juniper4","Nathan","Physical Contact",21.233,25.85,287
+"288","Juniper4","Nathan","Physical Contact",23.633,27.85,288
+"289","Juniper5","Nathan","Physical Contact",-1.167,2.967,289
+"290","Juniper5","Nathan","Physical Contact",-0.0329999999999999,4.2,290
+"291","Juniper5","Nathan","Physical Contact",0.95,6,291
+"292","Juniper5","Nathan","Physical Contact",3.267,7.3,292
+"293","Juniper5","Nathan","Physical Contact",6.633,10.85,293
+"294","Juniper5","Nathan","Physical Contact",7.1,11.367,294
+"295","Juniper5","Nathan","Physical Contact",7.767,12.117,295
+"296","Juniper5","Nathan","Physical Contact",9.633,14.667,296
+"297","Juniper5","Nathan","Physical Contact",10.883,15.083,297
+"298","Juniper5","Nathan","Physical Contact",12.7,17.167,298
+"299","Juniper5","Nathan","Physical Contact",13.467,17.617,299
+"300","Juniper5","Nathan","Physical Contact",14.783,19,300
+"301","Juniper5","Nathan","Physical Contact",16.217,20.85,301
+"302","Juniper5","Nathan","Physical Contact",28.15,32.45,302
+"303","Juniper6","Nathan","Physical Contact",0.233,4.35,303
+"304","Juniper6","Nathan","Physical Contact",0.533,4.583,304
+"305","Juniper6","Nathan","Physical Contact",3.967,9.017,305
+"306","Juniper6","Nathan","Physical Contact",5.467,10,306
+"307","Juniper6","Nathan","Physical Contact",7.017,11.3,307
+"308","Juniper6","Nathan","Physical Contact",10.567,14.8,308
+"309","Juniper6","Nathan","Physical Contact",10.9,15.167,309
+"310","Juniper6","Nathan","Physical Contact",16.25,20.417,310
+"311","Juniper6","Nathan","Physical Contact",16.833,21.567,311
+"312","Juniper6","Nathan","Physical Contact",21.033,25.217,312
+"313","Juniper6","Nathan","Physical Contact",21.483,25.683,313
+"314","Juniper7","Nathan","Physical Contact",0.25,6.383,314
+"315","Juniper7","Nathan","Physical Contact",2.683,6.833,315
+"316","Juniper7","Nathan","Physical Contact",4.433,9.75,316
+"317","Juniper7","Nathan","Physical Contact",6.467,11.183,317
+"318","Juniper7","Nathan","Physical Contact",9.85,14.383,318
+"319","Juniper7","Nathan","Physical Contact",18.5,23.183,319
+"320","Juniper7","Nathan","Physical Contact",19.717,23.95,320
+"321","Juniper7","Nathan","Physical Contact",26.117,32.65,321
+"322","Juniper7","Nathan","Physical Contact",29.167,33.35,322
+"323","Juniper7","Nathan","Physical Contact",37.533,41.667,323
+"324","Juniper7","Nathan","Physical Contact",47.167,55.9,324
+"325","Juniper1","Nathan","Sustained Look at Owner",13.567,17.567,325
+"326","Juniper1","Nathan","Sustained Look at Owner",55.3,59.3,326
+"327","Juniper1","Nathan","Vocalization",59.917,63.917,327
+"328","Juniper1","Nathan","Sustained Look at Owner",69.983,73.983,328
+"329","Juniper1","Nathan","Sustained Look at Owner",82.517,86.517,329
+"330","Juniper1","Nathan","Sustained Look at Owner",93.117,97.117,330
+"331","Juniper2","Nathan","Alternating Gaze",16.217,20.217,331
+"332","Juniper2","Nathan","Alternating Gaze",20.017,24.017,332
+"333","Juniper2","Nathan","Sustained Look at Owner",29.7,33.7,333
+"334","Juniper2","Nathan","Sustained Look at Owner",37.617,41.617,334
+"335","Juniper2","Nathan","Sustained Look at Owner",55.1,59.1,335
+"336","Juniper2","Nathan","Sustained Look at Owner",77.517,81.517,336
+"337","Juniper3","Nathan","Sustained Look at Owner",11.95,15.95,337
+"338","Juniper3","Nathan","Vocalization",43.967,47.967,338
+"339","Juniper3","Nathan","Sustained Look at Owner",46.067,50.067,339
+"340","Juniper3","Nathan","Sustained Look at Owner",54.667,58.667,340
+"341","Juniper3","Nathan","Sustained Look at Owner",97.85,101.85,341
+"342","Juniper4","Nathan","Alternating Gaze",14.917,18.917,342
+"343","Juniper4","Nathan","Sustained Look at Owner",29.583,33.583,343
+"344","Juniper4","Nathan","Sustained Look at Owner",36.683,40.683,344
+"345","Juniper4","Nathan","Sustained Look at Owner",67.05,71.05,345
+"346","Juniper5","Nathan","Alternating Gaze",18.9,22.9,346
+"347","Juniper5","Nathan","Alternating Gaze",23.15,27.15,347
+"348","Juniper5","Nathan","Sustained Look at Owner",33.15,37.15,348
+"349","Juniper5","Nathan","Sustained Look at Owner",44.15,48.15,349
+"350","Juniper5","Nathan","Sustained Look at Owner",57.15,61.15,350
+"351","Juniper6","Nathan","Alternating Gaze",15.167,19.167,351
+"352","Juniper6","Nathan","Alternating Gaze",19.55,23.55,352
+"353","Juniper6","Nathan","Sustained Look at Owner",30.15,34.15,353
+"354","Juniper6","Nathan","Sustained Look at Owner",52.15,56.15,354
+"355","Juniper6","Nathan","Sustained Look at Owner",76.267,80.267,355
+"356","Juniper7","Nathan","Sustained Look at Owner",13.133,17.133,356
+"357","Juniper7","Nathan","Alternating Gaze",43.533,47.533,357
+"358","Juniper7","Nathan","Sustained Look at Owner",54.967,58.967,358
+"359","Juniper7","Nathan","Sustained Look at Owner",66.65,70.65,359

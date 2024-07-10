@@ -1,0 +1,288 @@
+"","Observation","coder","Behavior","Start","Stop","observation_id_Lisa"
+"1","Fergus1","Lisa","Physical Contact",21.817,27.617,1
+"2","Fergus1","Lisa","Physical Contact",20.183,24.65,2
+"3","Fergus1","Lisa","Vocalization",177.333,181.333,3
+"4","Fergus1","Lisa","Vocalization",170.15,174.15,4
+"5","Fergus1","Lisa","Vocalization",173.55,177.55,5
+"6","Fergus1","Lisa","Physical Contact",11.917,18.25,6
+"7","Fergus1","Lisa","Sustained Look at Owner",6.067,10.067,7
+"8","Fergus1","Lisa","Physical Contact",14.917,21.067,8
+"9","Fergus1","Lisa","Physical Contact",19.15,23.4,9
+"10","Fergus1","Lisa","Physical Contact",17.35,21.517,10
+"11","Fergus1","Lisa","Alternating Gaze",61.917,65.917,11
+"12","Fergus1","Lisa","Sustained Look at Owner",98.2,102.2,12
+"13","Fergus1","Lisa","Vocalization",59.05,63.05,13
+"14","Fergus1","Lisa","Physical Contact",26.183,62.95,14
+"15","Fergus1","Lisa","Sustained Look at Owner",35.267,39.267,15
+"16","Fergus1","Lisa","Sustained Look at Owner",165.833,169.833,16
+"17","Fergus1","Lisa","Vocalization",169.783,173.783,17
+"18","Fergus1","Lisa","Vocalization",164.8,168.8,18
+"19","Fergus1","Lisa","Vocalization",159.883,163.883,19
+"20","Fergus1","Lisa","Physical Contact",24.283,29.783,20
+"21","Fergus1","Lisa","Physical Contact",-0.2,4.783,21
+"22","Fergus1","Lisa","Vocalization",161.183,165.183,22
+"23","Fergus1","Lisa","Physical Contact",1.583,5.75,23
+"24","Fergus1","Lisa","Physical Contact",3.75,9.383,24
+"25","Fergus1","Lisa","Physical Contact",3.283,7.533,25
+"26","Fergus2","Lisa","Physical Contact",138.683,142.883,26
+"27","Fergus2","Lisa","Vocalization",113.217,117.217,27
+"28","Fergus2","Lisa","Vocalization",118.033,122.033,28
+"29","Fergus2","Lisa","Sustained Look at Owner",161.6,165.6,29
+"30","Fergus2","Lisa","Vocalization",102.633,106.633,30
+"31","Fergus2","Lisa","Physical Contact",139.067,144.817,31
+"32","Fergus2","Lisa","Physical Contact",140.95,145.117,32
+"33","Fergus2","Lisa","Vocalization",111.183,115.183,33
+"34","Fergus2","Lisa","Vocalization",95.967,99.967,34
+"35","Fergus2","Lisa","Vocalization",94.417,98.417,35
+"36","Fergus2","Lisa","Vocalization",91.85,95.85,36
+"37","Fergus2","Lisa","Vocalization",99.883,103.883,37
+"38","Fergus2","Lisa","Vocalization",106.683,110.683,38
+"39","Fergus2","Lisa","Vocalization",106.083,110.083,39
+"40","Fergus2","Lisa","Vocalization",100.567,104.567,40
+"41","Fergus2","Lisa","Physical Contact",25.117,29.233,41
+"42","Fergus2","Lisa","Physical Contact",24.75,28.883,42
+"43","Fergus2","Lisa","Physical Contact",21.15,28.483,43
+"44","Fergus2","Lisa","Physical Contact",49.6,54.117,44
+"45","Fergus2","Lisa","Sustained Look at Owner",31.967,35.967,45
+"46","Fergus2","Lisa","Physical Contact",25.417,30.4,46
+"47","Fergus2","Lisa","Physical Contact",20.783,25.05,47
+"48","Fergus2","Lisa","Sustained Look at Owner",8.35,12.35,48
+"49","Fergus2","Lisa","Physical Contact",6.467,10.617,49
+"50","Fergus2","Lisa","Physical Contact",3.833,8.983,50
+"51","Fergus2","Lisa","Physical Contact",19.5,23.717,51
+"52","Fergus2","Lisa","Physical Contact",19.017,23.317,52
+"53","Fergus2","Lisa","Alternating Gaze",18.55,22.55,53
+"54","Fergus2","Lisa","Alternating Gaze",49.717,53.717,54
+"55","Fergus2","Lisa","Vocalization",83.367,87.367,55
+"56","Fergus2","Lisa","Sustained Look at Owner",76.85,80.85,56
+"57","Fergus2","Lisa","Physical Contact",72.3,76.95,57
+"58","Fergus2","Lisa","Physical Contact",-0.483,4.317,58
+"59","Fergus2","Lisa","Vocalization",91,95,59
+"60","Fergus2","Lisa","Vocalization",83.967,87.967,60
+"61","Fergus2","Lisa","Physical Contact",69.95,74.667,61
+"62","Fergus2","Lisa","Physical Contact",51.183,55.317,62
+"63","Fergus2","Lisa","Physical Contact",51.05,55.1,63
+"64","Fergus2","Lisa","Physical Contact",50.2,54.95,64
+"65","Fergus2","Lisa","Alternating Gaze",69.133,73.133,65
+"66","Fergus2","Lisa","Sustained Look at Owner",52.767,56.767,66
+"67","Fergus2","Lisa","Physical Contact",51.383,55.5,67
+"68","Fergus3","Lisa","Physical Contact",-0.733,3.767,68
+"69","Fergus3","Lisa","Physical Contact",32.1,36.3,69
+"70","Fergus3","Lisa","Physical Contact",32.767,36.933,70
+"71","Fergus3","Lisa","Vocalization",29.683,33.683,71
+"72","Fergus3","Lisa","Sustained Look at Owner",20.983,24.983,72
+"73","Fergus3","Lisa","Vocalization",22.183,26.183,73
+"74","Fergus3","Lisa","Vocalization",173.65,177.65,74
+"75","Fergus3","Lisa","Vocalization",174.683,178.683,75
+"76","Fergus3","Lisa","Vocalization",64.167,68.167,76
+"77","Fergus3","Lisa","Physical Contact",33.1,37.267,77
+"78","Fergus3","Lisa","Sustained Look at Owner",45.017,49.017,78
+"79","Fergus3","Lisa","Physical Contact",1.133,5.817,79
+"80","Fergus3","Lisa","Physical Contact",3.167,7.733,80
+"81","Fergus3","Lisa","Physical Contact",37.667,46.067,81
+"82","Fergus3","Lisa","Physical Contact",0,4.533,82
+"83","Fergus3","Lisa","Sustained Look at Owner",7.017,11.017,83
+"84","Fergus3","Lisa","Owner Contact",13.633,18.233,84
+"85","Fergus3","Lisa","Positioning in Front of Owner",14.1,18.1,85
+"86","Fergus3","Lisa","Owner Contact",12.85,17.067,86
+"87","Fergus3","Lisa","Owner Contact",8.467,13.433,87
+"88","Fergus4","Lisa","Sustained Look at Owner",11.867,15.867,88
+"89","Fergus4","Lisa","Physical Contact",9.983,14.017,89
+"90","Fergus4","Lisa","Physical Contact",10.15,14.533,90
+"91","Fergus4","Lisa","Alternating Gaze",13.567,17.567,91
+"92","Fergus4","Lisa","Physical Contact",15.533,19.683,92
+"93","Fergus4","Lisa","Physical Contact",15.85,20.017,93
+"94","Fergus4","Lisa","Physical Contact",14.617,18.733,94
+"95","Fergus4","Lisa","Physical Contact",9.8,13.883,95
+"96","Fergus4","Lisa","Physical Contact",4.8,10.267,96
+"97","Fergus4","Lisa","Physical Contact",-0.05,4.583,97
+"98","Fergus4","Lisa","Physical Contact",2.567,8.567,98
+"99","Fergus4","Lisa","Physical Contact",8.317,13.183,99
+"100","Fergus4","Lisa","Physical Contact",9.633,13.683,100
+"101","Fergus4","Lisa","Physical Contact",9.45,13.517,101
+"102","Fergus4","Lisa","Physical Contact",9.25,13.35,102
+"103","Fergus4","Lisa","Physical Contact",30.8,34.883,103
+"104","Fergus4","Lisa","Physical Contact",24.317,33.933,104
+"105","Fergus4","Lisa","Physical Contact",23.95,28.133,105
+"106","Fergus4","Lisa","Sustained Look at Owner",41,45,106
+"107","Fergus4","Lisa","Physical Contact",0.833,4.95,107
+"108","Fergus4","Lisa","Sustained Look at Owner",174.133,178.133,108
+"109","Fergus4","Lisa","Sustained Look at Owner",112.517,116.517,109
+"110","Fergus4","Lisa","Physical Contact",21.717,25.85,110
+"111","Fergus4","Lisa","Alternating Gaze",21.45,25.45,111
+"112","Fergus4","Lisa","Sustained Look at Owner",19.767,23.767,112
+"113","Fergus4","Lisa","Physical Contact",22.033,26.55,113
+"114","Fergus4","Lisa","Physical Contact",23.617,27.733,114
+"115","Fergus4","Lisa","Physical Contact",23.233,27.35,115
+"116","Fergus4","Lisa","Physical Contact",22.75,26.833,116
+"117","Fergus5","Lisa","Physical Contact",6.683,10.867,117
+"118","Fergus5","Lisa","Physical Contact",6.233,10.567,118
+"119","Fergus5","Lisa","Physical Contact",3.833,9.733,119
+"120","Fergus5","Lisa","Physical Contact",2.783,6.9,120
+"121","Fergus5","Lisa","Physical Contact",2.967,7.467,121
+"122","Fergus5","Lisa","Vocalization",169.65,173.65,122
+"123","Fergus5","Lisa","Vocalization",166.733,170.733,123
+"124","Fergus5","Lisa","Vocalization",174.217,178.217,124
+"125","Fergus5","Lisa","Physical Contact",7.067,11.2,125
+"126","Fergus5","Lisa","Vocalization",178.511,182.511,126
+"127","Fergus5","Lisa","Physical Contact",0.417,4.9,127
+"128","Fergus5","Lisa","Physical Contact",1.467,5.867,128
+"129","Fergus5","Lisa","Physical Contact",-0.567,3.933,129
+"130","Fergus5","Lisa","Alternating Gaze",105.917,109.917,130
+"131","Fergus5","Lisa","Physical Contact",7.767,12.167,131
+"132","Fergus5","Lisa","Physical Contact",2.417,6.483,132
+"133","Fergus5","Lisa","Physical Contact",2.567,6.7,133
+"134","Fergus5","Lisa","Physical Contact",2.25,6.367,134
+"135","Fergus5","Lisa","Physical Contact",1.933,6.05,135
+"136","Fergus5","Lisa","Physical Contact",2.117,6.167,136
+"137","Fergus5","Lisa","Physical Contact",24,28.7,137
+"138","Fergus5","Lisa","Physical Contact",23.567,27.9,138
+"139","Fergus5","Lisa","Physical Contact",25.233,29.333,139
+"140","Fergus5","Lisa","Physical Contact",24.867,29.033,140
+"141","Fergus5","Lisa","Physical Contact",22.833,27.017,141
+"142","Fergus5","Lisa","Physical Contact",22.5,26.617,142
+"143","Fergus5","Lisa","Physical Contact",23.217,27.4,143
+"144","Fergus5","Lisa","Physical Contact",8.383,12.6,144
+"145","Fergus5","Lisa","Physical Contact",25.55,29.817,145
+"146","Fergus5","Lisa","Physical Contact",27.45,31.517,146
+"147","Fergus5","Lisa","Physical Contact",27.25,31.417,147
+"148","Fergus5","Lisa","Physical Contact",27.8,31.883,148
+"149","Fergus5","Lisa","Physical Contact",27.6,31.717,149
+"150","Fergus5","Lisa","Physical Contact",26.183,30.367,150
+"151","Fergus5","Lisa","Physical Contact",25.9,30.017,151
+"152","Fergus5","Lisa","Physical Contact",26.9,31.2,152
+"153","Fergus5","Lisa","Physical Contact",26.55,30.733,153
+"154","Fergus5","Lisa","Physical Contact",12.1,16.817,154
+"155","Fergus5","Lisa","Physical Contact",10.333,15.75,155
+"156","Fergus5","Lisa","Physical Contact",13.233,17.367,156
+"157","Fergus5","Lisa","Physical Contact",12.9,17.05,157
+"158","Fergus5","Lisa","Physical Contact",9.017,13.1,158
+"159","Fergus5","Lisa","Physical Contact",8.7,12.867,159
+"160","Fergus5","Lisa","Physical Contact",9.633,14.067,160
+"161","Fergus5","Lisa","Physical Contact",9.35,13.45,161
+"162","Fergus5","Lisa","Physical Contact",13.533,17.7,162
+"163","Fergus5","Lisa","Physical Contact",18.467,23.233,163
+"164","Fergus5","Lisa","Alternating Gaze",16.9,20.9,164
+"165","Fergus5","Lisa","Physical Contact",20.1,26.367,165
+"166","Fergus5","Lisa","Physical Contact",19.35,23.95,166
+"167","Fergus5","Lisa","Physical Contact",14.167,18.3,167
+"168","Fergus5","Lisa","Physical Contact",13.833,18,168
+"169","Fergus5","Lisa","Physical Contact",14.8,20.067,169
+"170","Fergus5","Lisa","Physical Contact",14.467,18.617,170
+"171","Fergus5","Lisa","Sustained Look at Owner",139.917,143.917,171
+"172","Fergus5","Lisa","Vocalization",141.883,145.883,172
+"173","Fergus5","Lisa","Vocalization",133.9,137.9,173
+"174","Fergus5","Lisa","Vocalization",137.983,141.983,174
+"175","Fergus5","Lisa","Vocalization",148.7,152.7,175
+"176","Fergus5","Lisa","Vocalization",149.883,153.883,176
+"177","Fergus5","Lisa","Physical Contact",35.05,39.183,177
+"178","Fergus5","Lisa","Vocalization",143.933,147.933,178
+"179","Fergus5","Lisa","Sustained Look at Owner",39.65,43.65,179
+"180","Fergus5","Lisa","Sustained Look at Owner",55.133,59.133,180
+"181","Fergus5","Lisa","Physical Contact",35.483,39.617,181
+"182","Fergus5","Lisa","Physical Contact",35.933,40.8,182
+"183","Fergus5","Lisa","Sustained Look at Owner",119.367,123.367,183
+"184","Fergus5","Lisa","Vocalization",131.65,135.65,184
+"185","Fergus5","Lisa","Physical Contact",7.383,11.533,185
+"186","Fergus5","Lisa","Physical Contact",115.333,119.917,186
+"187","Fergus5","Lisa","Vocalization",151.133,155.133,187
+"188","Fergus5","Lisa","Physical Contact",30.217,34.5,188
+"189","Fergus5","Lisa","Physical Contact",29.833,34.033,189
+"190","Fergus5","Lisa","Physical Contact",30.95,35.1,190
+"191","Fergus5","Lisa","Physical Contact",30.6,34.733,191
+"192","Fergus5","Lisa","Physical Contact",28.417,32.633,192
+"193","Fergus5","Lisa","Physical Contact",27.983,32.183,193
+"194","Fergus5","Lisa","Physical Contact",29.233,33.5,194
+"195","Fergus5","Lisa","Physical Contact",28.733,32.8,195
+"196","Fergus5","Lisa","Physical Contact",34.267,38.95,196
+"197","Fergus5","Lisa","Physical Contact",32.717,38.2,197
+"198","Fergus5","Lisa","Vocalization",152.517,156.517,198
+"199","Fergus5","Lisa","Vocalization",154.167,158.167,199
+"200","Fergus5","Lisa","Physical Contact",31.667,35.833,200
+"201","Fergus5","Lisa","Physical Contact",31.3,35.433,201
+"202","Fergus5","Lisa","Physical Contact",32.333,36.5,202
+"203","Fergus5","Lisa","Physical Contact",31.983,36.15,203
+"204","Juniper1","Lisa","Physical Contact",8.017,12.5,204
+"205","Juniper1","Lisa","Physical Contact",90.5,96.833,205
+"206","Juniper1","Lisa","Alternating Gaze",16.283,20.283,206
+"207","Juniper1","Lisa","Physical Contact",17.017,25.3,207
+"208","Juniper1","Lisa","Sustained Look at Owner",13.1,17.1,208
+"209","Juniper1","Lisa","Physical Contact",4.717,8.767,209
+"210","Juniper1","Lisa","Physical Contact",6.233,10.5,210
+"211","Juniper1","Lisa","Physical Contact",47.233,54.383,211
+"212","Juniper1","Lisa","Physical Contact",0.367,5.833,212
+"213","Juniper1","Lisa","Physical Contact",25.483,32.767,213
+"214","Juniper1","Lisa","Physical Contact",37.383,43.7,214
+"215","Juniper2","Lisa","Physical Contact",23.283,27.633,215
+"216","Juniper2","Lisa","Sustained Look at Owner",29.783,33.783,216
+"217","Juniper2","Lisa","Physical Contact",21.817,25.883,217
+"218","Juniper2","Lisa","Physical Contact",9.45,13.95,218
+"219","Juniper2","Lisa","Physical Contact",10.75,15.017,219
+"220","Juniper2","Lisa","Sustained Look at Owner",41.283,45.283,220
+"221","Juniper2","Lisa","Physical Contact",5.267,9.95,221
+"222","Juniper2","Lisa","Physical Contact",0.55,5.95,222
+"223","Juniper2","Lisa","Physical Contact",150.9,157.533,223
+"224","Juniper2","Lisa","Sustained Look at Owner",80.533,84.533,224
+"225","Juniper2","Lisa","Physical Contact",96.017,101.15,225
+"226","Juniper3","Lisa","Physical Contact",37.233,42.983,226
+"227","Juniper3","Lisa","Physical Contact",22.85,28.233,227
+"228","Juniper3","Lisa","Physical Contact",19.983,24.583,228
+"229","Juniper3","Lisa","Sustained Look at Owner",55.633,59.633,229
+"230","Juniper3","Lisa","Sustained Look at Owner",46.933,50.933,230
+"231","Juniper3","Lisa","Physical Contact",26.833,31.317,231
+"232","Juniper3","Lisa","Physical Contact",0.3,7.833,232
+"233","Juniper3","Lisa","Physical Contact",9.367,13.567,233
+"234","Juniper3","Lisa","Physical Contact",6.5,12.9,234
+"235","Juniper3","Lisa","Sustained Look at Owner",14.3,18.3,235
+"236","Juniper3","Lisa","Alternating Gaze",18.067,22.067,236
+"237","Juniper4","Lisa","Physical Contact",0.583,9.867,237
+"238","Juniper4","Lisa","Physical Contact",6.283,10.817,238
+"239","Juniper4","Lisa","Physical Contact",18.033,26.75,239
+"240","Juniper4","Lisa","Physical Contact",-0.05,4.067,240
+"241","Juniper4","Lisa","Physical Contact",16.617,21.533,241
+"242","Juniper4","Lisa","Sustained Look at Owner",47.717,51.717,242
+"243","Juniper4","Lisa","Sustained Look at Owner",69.633,73.633,243
+"244","Juniper4","Lisa","Physical Contact",7.183,12.217,244
+"245","Juniper4","Lisa","Physical Contact",9.15,15.55,245
+"246","Juniper4","Lisa","Alternating Gaze",15.3,19.3,246
+"247","Juniper5","Lisa","Physical Contact",10.083,17.15,247
+"248","Juniper5","Lisa","Physical Contact",13.617,18.167,248
+"249","Juniper5","Lisa","Physical Contact",14.383,18.55,249
+"250","Juniper5","Lisa","Sustained Look at Owner",58.167,62.167,250
+"251","Juniper5","Lisa","Physical Contact",7.517,11.85,251
+"252","Juniper5","Lisa","Physical Contact",8.033,13.55,252
+"253","Juniper5","Lisa","Sustained Look at Owner",34.217,38.217,253
+"254","Juniper5","Lisa","Alternating Gaze",38.267,42.267,254
+"255","Juniper5","Lisa","Sustained Look at Owner",46.633,50.633,255
+"256","Juniper5","Lisa","Physical Contact",15.567,20.1,256
+"257","Juniper5","Lisa","Physical Contact",17.083,22.317,257
+"258","Juniper5","Lisa","Physical Contact",28.683,33.483,258
+"259","Juniper5","Lisa","Physical Contact",3.75,8.5,259
+"260","Juniper5","Lisa","Physical Contact",0.417,5.217,260
+"261","Juniper5","Lisa","Physical Contact",1.75,6.983,261
+"262","Juniper6","Lisa","Physical Contact",60.217,65.083,262
+"263","Juniper6","Lisa","Sustained Look at Owner",29.383,33.383,263
+"264","Juniper6","Lisa","Sustained Look at Owner",77.517,81.517,264
+"265","Juniper6","Lisa","Physical Contact",63,156.951,265
+"266","Juniper6","Lisa","Physical Contact",20.533,28.433,266
+"267","Juniper6","Lisa","Physical Contact",4.783,12.35,267
+"268","Juniper6","Lisa","Physical Contact",-0.267,5.683,268
+"269","Juniper6","Lisa","Physical Contact",11.517,16.6,269
+"270","Juniper6","Lisa","Physical Contact",16.967,23.4,270
+"271","Juniper6","Lisa","Alternating Gaze",16.133,20.133,271
+"272","Juniper7","Lisa","Alternating Gaze",-0.15,3.85,272
+"273","Juniper7","Lisa","Physical Contact",37.233,42.767,273
+"274","Juniper7","Lisa","Physical Contact",26.65,34.367,274
+"275","Juniper7","Lisa","Physical Contact",22.467,26.7,275
+"276","Juniper7","Lisa","Physical Contact",42.167,47.067,276
+"277","Juniper7","Lisa","Sustained Look at Owner",68.1,72.1,277
+"278","Juniper7","Lisa","Sustained Look at Owner",57.15,61.15,278
+"279","Juniper7","Lisa","Physical Contact",47.85,56.933,279
+"280","Juniper7","Lisa","Physical Contact",18.367,26,280
+"281","Juniper7","Lisa","Physical Contact",4.8,12.133,281
+"282","Juniper7","Lisa","Physical Contact",3.567,7.867,282
+"283","Juniper7","Lisa","Physical Contact",1.033,7.367,283
+"284","Juniper7","Lisa","Physical Contact",9.15,13.917,284
+"285","Juniper7","Lisa","Alternating Gaze",18.35,22.35,285
+"286","Juniper7","Lisa","Sustained Look at Owner",15.117,19.117,286
+"287","Juniper7","Lisa","Physical Contact",10.633,15.8,287
